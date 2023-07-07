@@ -1,0 +1,26 @@
+body {
+    background: lightcoral;
+}
+img {
+    display: block;
+    max-width: 500px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    background: lightblue;
+    text-decoration: none;
+    text-align: center;
+}
